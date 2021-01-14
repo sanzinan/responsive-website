@@ -17,8 +17,7 @@
 .penguin-card-footer{
    border: 0;
    background-color: white;
-   padding: 5px;
-   margin: 5px;
+   
 
 
 }.penguin-card{
@@ -41,17 +40,19 @@
    border-radius: 1em;
 }
 
+
+
 .man{
     padding: 20px;
     margin: 20px;
-    font-size: 50px;
+    font-size: 40px;
     margin-left: 0;
 }
 
 .man-jacket img{ 
     width: 70%;
-    height: 70%;
-    margin-top: 15px;
+    height: 90%;
+    margin-top: 20px;
 }
 
 .container{
